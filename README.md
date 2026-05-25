@@ -10,19 +10,19 @@ Terminal-based interactive gameplay
 
 Features:-
 
-Interactive Terminal Gameplay
+Interactive Terminal Gameplay :-
 The game continuously updates the hidden word as the player guesses letters.
 
-Random Word Selection
+Random Word Selection :-
 Every game is different thanks to Python's random.choice().
 
-ASCII Hangman Art
+ASCII Hangman Art :-
 Visual stages make the game more engaging and fun.
 
-Duplicate Guess Detection
+Duplicate Guess Detection :- 
 The game warns users if they repeat the same guess.
 
-Win & Lose Conditions
+Win & Lose Conditions :-
 The game automatically detects:
 
 Victory
