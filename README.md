@@ -26,4 +26,5 @@ Win & Lose Conditions :-
 The game automatically detects:
 
 Victory
+
 Game Over
